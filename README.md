@@ -1,2 +1,1 @@
-# omentites_forgo
-Deployed Forgo Application by Omentites Thailand
+# omentites_forgo_public
